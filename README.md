@@ -1,47 +1,34 @@
-# DishGo - find a dish in your area! 😋 🍽️
+# DishGo - find a dish in your area! (Work in Progress) 😋 🍽️
 
-[minimal background on app / how to access if hosted]
+DishGo is a mobile application built using React Native, leveraging the power of Supabase and Google APIs, and deployed with Expo Go. The core functionality of DishGo is to assist users in finding specific dishes they crave within a chosen area and providing restaurant recommendations that offer those dishes nearby.
 
-## Features
+Key Features:
+Search by Dish: Users can search for a particular dish they are craving.
+Location-based Results: Results are tailored based on the user's specified area.
+Set Search Radius: Users can adjust the search radius to find dishes within a specific distance.
+User Accounts: Users can create accounts to save their favourite dishes and preferences.
+Business Page: Restaurants can create business accounts to add their own dishes to the database, enhancing the variety of available options.
+Map View: View dishes on a map for a visual representation of nearby options.
+Open in Google Maps: Users can easily navigate to a restaurant's location using Google Maps integration.
+Restaurant Page: Directly connected to Google Places API, providing comprehensive information about the restaurant.
+About:
+This project was developed as the final project for the Northcoders BootCamp. It is still a work in progress and was a collaborative effort with contributions from the following individuals:
 
-[summarise key features]
+Charlie Tahsin
+Simran Amin
+Claudio Camba
+Hannah Tinsley McRink
+Daniel Gruitt
+Demo Video:
+You can watch the demo of DishGo on YouTube.
 
-## Database and API
+Local Setup:
+Due to the integration of API keys for Google and Supabase, the project cannot be run locally without these keys. If you're interested in exploring the application more or are considering me for a position, please feel free to reach out to me at the phone number I've included on my CV. I'll happily provide access to the necessary keys for local testing.
 
-[explain what database and APIs the app uses]
-
-## How to Run DishGo
-
-1. **Clone this repo** to your local machine by running one of the following commands within the folder you wish to work in
-
-```
-git clone [link]
-git clone [link]
-```
-
-
-2. Navigate into the created folder
-
-```
-cd dishgo
-
-```
-[finish instructions e.g. npm install, start expo]
-
-### Minimum requirements
-
-[add minimum requirements]
-
-### Future features
-
-- Change user
-- Post new articles
-- Search articles by search query
-
-## Contributors
-
-[links to our contact details / portfolios]
-
-## Credits
-
-- simon grimm - image uploading [code](https://github.com/saimon24/react-native-resumable-upload-supabase) [youtube tutorial](https://www.youtube.com/watch?v=am6w5zEDk_g)
+Technologies Used:
+React Native
+Supabase
+Google APIs
+Expo Go
+Contact:
+For inquiries or access to API keys, please refer to the contact information provided on my CV.
